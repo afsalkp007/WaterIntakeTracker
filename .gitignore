@@ -1,0 +1,51 @@
+# Xcode
+#
+# gitignore contributors: paste at bottom of Github's gitignore:
+# https://github.com/github/gitignore/blob/main/Swift.gitignore
+
+## User settings
+xcuserdata/
+*.xcscmblueprint
+*.xcuserstate
+
+## Build generated
+build/
+DerivedData/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+## Swift Package Manager
+.build/
+.swiftpm/xcode/package.resolved
+.swiftpm/configuration/registries.json
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## SwiftLint & Formatting tools cache
+.swiftlint-cache/
+
+## macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r
+._*
+.Spotlight-V100
+.Trashes
+
+## Environment variables and Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p8
+*.p12
+*.mobileprovision
+*.cer
+
+## Crash logs & Diagnostic reports
+*.crash
+*.ips
