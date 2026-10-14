@@ -8,15 +8,10 @@ Supports **iOS 17.0+**, **Light & Dark Mode**, **Dynamic Type (Accessibility)**,
 
 ## 📸 Screenshots
 
-<!-- Place your exported screenshots in the screenshots/ folder with matching filenames -->
+<img width="256" height="556" src="https://github.com/user-attachments/assets/2c2ee22a-4518-40a6-a575-2ea82f0177af" />
+<img width="256" height="556" src="https://github.com/user-attachments/assets/fde9870d-0600-4e3c-a7ca-db84ce1ad35e" />
 
-| Today Dashboard (Light) | Today Dashboard (Dark) | Landscape Mode |
-| :---: | :---: | :---: |
-| ![Today Dashboard Light](screenshots/dashboard_light.png) | ![Today Dashboard Dark](screenshots/dashboard_dark.png) | ![Landscape Dashboard](screenshots/dashboard_landscape.png) |
 
-| Weekly Analytics | Quick Log & Custom Drink | Smart Reminders & Goal |
-| :---: | :---: | :---: |
-| ![Weekly Analytics](screenshots/analytics.png) | ![Log Custom Drink](screenshots/custom_log.png) | ![Goal Settings](screenshots/settings.png) |
 
 > [!TIP]
 > **Adding Your Screenshots**:
